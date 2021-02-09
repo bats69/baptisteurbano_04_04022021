@@ -691,10 +691,6 @@ p {
     max-width: 400px;
     margin: auto auto auto auto;
 }
-.social:hover
-.social:focus{
-    color: #fff;
-}
 
 h2 {
     font-size: 22px;
@@ -775,7 +771,7 @@ h4 {
     color: #FFFFFF!important;
 }
 
-.btn-atomic-tangerine:hover
+.btn-atomic-tangerine:hover,
 .btn-atomic-tangerine:focus {
     background: #c27956!important;
     color: #FFFFFF!important;
@@ -785,7 +781,7 @@ h4 {
     color: #FFFFFF!important;
 }
 
-.ltc-white:hover
+.ltc-white:hover,
 .ltc-white:focus {
     color: #cccccc!important;
 }
@@ -794,7 +790,7 @@ h4 {
     color: #F3976C!important;
 }
 
-.ltc-atomic-tangerine:hover
+.ltc-atomic-tangerine:hover,
 .ltc-atomic-tangerine:focus {
     color: #c27956!important;
 }
